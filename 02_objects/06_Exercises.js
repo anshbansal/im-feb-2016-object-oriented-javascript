@@ -17,5 +17,5 @@ console.log(typeof new C());
  Amount – Number
  Name – String
 
- All properties must be have their own getters and setters
+ All properties must have their own getters and setters
  */
