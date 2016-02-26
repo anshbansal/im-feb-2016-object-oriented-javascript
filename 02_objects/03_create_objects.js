@@ -3,7 +3,7 @@
  */
 
 function Person(name) {
-    var job = "software engineer";
+    var job = "software engineer"; //Cannot be accessed from outside
     this.name = name;
 }
 

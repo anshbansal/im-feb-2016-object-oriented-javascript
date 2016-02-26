@@ -13,3 +13,6 @@ function Child() {
 
 Child.prototype = Object.create(Parent.prototype);
 Child.prototype.constructor = Child;
+
+//Do not use
+//Child.prototype = new Parent()

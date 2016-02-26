@@ -17,6 +17,6 @@ var second = Object.create(first);
  first.b = 2;
  console.log(first.b);
  console.log(second.b);
-*/
+ */
 
 

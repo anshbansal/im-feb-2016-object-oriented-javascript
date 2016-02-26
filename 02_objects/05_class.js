@@ -7,10 +7,10 @@ function Person(name) {
 }
 
 Person.prototype = {
-    getName: function() {
+    getName: function () {
         return this.name;
     },
-    setName: function(name) {
+    setName: function (name) {
         this.name = name;
     }
 };
